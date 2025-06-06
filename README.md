@@ -31,6 +31,7 @@ Description: A desktop application that allows users to manage and schedule medi
 **Type:** Desktop App  
 **Technologies:** Visual Basic  
 **Description:** A personalized Windows desktop text editor built in Visual Basic using Visual Studio. The application allows users to create, edit, and save text documents with a custom UI. Includes features such as font customization, save/load functionality, and basic formatting.
+
 ---
 
 ### 🪑 ShineOn Furniture – Wix Website  
