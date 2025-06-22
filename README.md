@@ -9,7 +9,9 @@ Welcome! This repository includes a collection of personal and academic projects
 
 ### 🛡️ Phishing-Website-Detection
 **Type:**  Machine Learning Project
+
 **Technologies:**  Python, scikit-learn, Pandas, NumPy, Matplotlib, UCI Dataset
+
 **Description:**  A machine learning project focused on the automatic detection of phishing websites using classification models. The "Phishing Websites" dataset from the UCI Machine Learning Repository was used to train and evaluate various algorithms, including Logistic Regression, SVM, KNN, Random Forest, Gradient Boosting, and MLP. The workflow involved data preprocessing, model training and optimization, and performance evaluation using metrics such as F1-score and ROC AUC. Ensemble models like Random Forest and Gradient Boosting demonstrated a strong balance between accuracy and training time, making them suitable for practical phishing detection tasks.
 
 ---
@@ -32,9 +34,9 @@ The models were trained and evaluated both locally and in distributed environmen
 ---
 
 ### 🛢️ Analize-Medicale
-Type: Desktop App – Medical Analysis Management
-Technologies: Java, Oracle Database, JDBC
-Description: A desktop application that allows users to manage and schedule medical lab tests. Includes functionality for adding patient records, selecting test types, storing results, and interacting with an Oracle database through JDBC. Designed to streamline the workflow of a medical laboratory.
+**Type:** Desktop App – Medical Analysis Management
+**Technologies:** Java, Oracle Database, JDBC
+***Description:** A desktop application that allows users to manage and schedule medical lab tests. Includes functionality for adding patient records, selecting test types, storing results, and interacting with an Oracle database through JDBC. Designed to streamline the workflow of a medical laboratory.
 
 ---
 
@@ -68,6 +70,6 @@ Description: A desktop application that allows users to manage and schedule medi
 
 ## 🧰 Tools & Technologies
 Java • Python • JavaScript • HTML & CSS • SQL • Oracle DB • Firebase  
-Android Studio • Visual Studio Code • Git • Wix • TeleportHQ 
+Android Studio • Visual Studio Code • Git • Wix • TeleportHQ  • sckit-learn • Pyspark • Python
 
 ---
