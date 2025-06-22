@@ -19,12 +19,13 @@ Welcome! This repository includes a collection of personal and academic projects
 ### 💬 MatchMate – Microservices Architecture App
 **Type:** Cloud Web App
 
-**Technologies:** Node.js, JavaScript, Docker, Azure Container Apps, REST API, Azure SQL
+**Technologies:** Node.js, JavaScript, Docker, Azure Container Apps, REST API, Azure SQL, MSSQL
 **Description:** A microservices-based web application designed to match users based on their gaming preferences. The system includes three independent services:
 
 - user-service for registration and authentication,
 - matchmaking-service for computing user compatibility and managing friend requests,
 - chat-service for messaging and feedback.
+  
 Each service is containerized with Docker and deployed in Microsoft Azure using Azure Container Apps. Communication between services is handled via RESTful APIs. Compatibility scores are calculated using shared interests, gaming style, availability, and user ratings. Feedback and chat history are stored and analyzed to enhance user experience and moderation. The architecture promotes modularity, scalability, and maintainability.
 
 ---
