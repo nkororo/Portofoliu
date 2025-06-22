@@ -1,6 +1,6 @@
 # 💻 My Developer Portfolio
 
-Welcome! This repository includes a collection of personal and academic projects that showcase my skills in software development, web design, databases, and UI tools.
+Welcome! This repository includes a collection of personal and academic projects that showcase my skills in software development, web design, databases, data mining and UI tools.
 
 ---
 
