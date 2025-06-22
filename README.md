@@ -3,14 +3,15 @@
 Welcome! This repository includes a collection of personal and academic projects that showcase my skills in software development, web design, databases, and UI tools.
 
 ---
-##🛡️ Phishing-Website-Detection
+
+
+## 🚀 Projects Overview
+
+### 🛡️ Phishing-Website-Detection
 **Type:** Machine Learning Project
 **Technologies:** Python, scikit-learn, Pandas, NumPy, Matplotlib, UCI Dataset
 **Description:** A machine learning project focused on the automatic detection of phishing websites using classification models. The "Phishing Websites" dataset from the UCI Machine Learning Repository was used to train and evaluate various algorithms, including Logistic Regression, SVM, KNN, Random Forest, Gradient Boosting, and MLP. The workflow involved data preprocessing, model training and optimization, and performance evaluation using metrics such as F1-score and ROC AUC. Ensemble models like Random Forest and Gradient Boosting demonstrated a strong balance between accuracy and training time, making them suitable for practical phishing detection tasks.
 ---
-
-## 🚀 Projects Overview
-
 ### 📱 FindMe2
 **Type:** Android App  
 **Technologies:** Java, Firebase, Android Studio  
